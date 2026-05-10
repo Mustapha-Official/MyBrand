@@ -118,7 +118,7 @@ p  { font-size: clamp(14px, 2vw, 20px); }
   text-align: center;
   border-radius: 10px;
   transition: 0.5s;
-  box-shadow: 6px 6px 8px #199651;
+  box-shadow: 5px 5px 4px #199651;
 }
 
 .card img {
